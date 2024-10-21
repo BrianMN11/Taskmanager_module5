@@ -1,11 +1,10 @@
-# Task-Manager Website 
----md
+## Task-Manager Website 
+
 This web application is a simple task board application that allows a team to manage project tasks from creation to progress updates and completion. 
 It contains dynamically updated HTML and css powered by jquery. 
 It utilizes the DayJs library to work with dates and enables an easy to use date picker in the browser. 
 The below user story, acceptance criteria and mock up  were used as a guide to enable the proper development of this web application. 
 
----
 
 ## User Story
 

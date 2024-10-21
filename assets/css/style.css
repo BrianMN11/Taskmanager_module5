@@ -23,6 +23,7 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
 .task-form{
   display: flex;
   flex-direction: column;
@@ -37,12 +38,4 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-}
-
-.warn{
-  background-color: rgb(255, 196, 0);
-}
-
-.late{
-  background-color: rgb(163, 11, 11);
 }
